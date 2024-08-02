@@ -1,3 +1,3 @@
-##### build the project
+## Module 6
 
-    gradle build
+Here is code to complete Module 6
